@@ -1,0 +1,66 @@
+{
+  "nombre": "Acueducto Comunitario de Palmas de la Sabana",
+  "advertencia": "Datos ficticios con fines educativos",
+  "prestador": "Asociación de usuarios (junta de 5 personas, 1 fontanero, 1 tesorera)",
+  "habitantes_aprox": 2500,
+  "periodo": {
+    "inicio": "2025-10-01",
+    "fin": "2026-09-30"
+  },
+  "fuente": {
+    "tipo": "Pozo profundo",
+    "profundidad_m": 120,
+    "nivel_estatico_m": 32,
+    "bomba": "Sumergible, 25 HP",
+    "caudal_nominal_Ls": 12.0,
+    "macromedidor": "Dañado desde 2024; la producción se estima con horómetro y aforos"
+  },
+  "tanque": {
+    "tipo": "Elevado",
+    "volumen_m3": 150.0,
+    "cota_terreno_m": 58.0,
+    "cota_fondo_m": 72.0,
+    "cota_rebose_m": 76.0
+  },
+  "red": {
+    "longitud_aprox_km": 14,
+    "materiales": [
+      "PVC",
+      "Asbesto-cemento"
+    ]
+  },
+  "acometidas": {
+    "longitud_media_m": 6.0,
+    "material": "PEAD / PVC 1/2 pulg"
+  },
+  "operacion": {
+    "bombeo": "Aprox. 16 h/día (04:00-20:00), más en temporada seca",
+    "distribucion": "Turnos por sector, aprox. 8 h/día cada uno"
+  },
+  "sectores": {
+    "Centro": {
+      "suscriptores": 220,
+      "cota_min_m": 45.0,
+      "cota_max_m": 55.0,
+      "fraccion_medida": 0.55
+    },
+    "Sur": {
+      "suscriptores": 160,
+      "cota_min_m": 40.0,
+      "cota_max_m": 48.0,
+      "fraccion_medida": 0.4
+    },
+    "Oriente": {
+      "suscriptores": 130,
+      "cota_min_m": 48.0,
+      "cota_max_m": 56.0,
+      "fraccion_medida": 0.35
+    },
+    "Norte Alto": {
+      "suscriptores": 110,
+      "cota_min_m": 60.0,
+      "cota_max_m": 70.0,
+      "fraccion_medida": 0.15
+    }
+  }
+}

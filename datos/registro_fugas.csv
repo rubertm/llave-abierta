@@ -1,0 +1,87 @@
+fecha_reporte,sector,tipo,material,dias_hasta_reparar,visible,fecha_reparacion
+2025-10-03,Centro,Acometida,PEAD,12,True,2025-10-15
+2025-10-14,Sur,Red,PVC,3,True,2025-10-17
+2025-10-14,Sur,Red,PVC,9,True,2025-10-23
+2025-10-16,Oriente,Acometida,PEAD,14,True,2025-10-30
+2025-10-22,Sur,Acometida,PEAD,14,True,2025-11-05
+2025-10-27,Oriente,Acometida,PEAD,11,True,2025-11-07
+2025-11-01,Sur,Red,PVC,10,True,2025-11-11
+2025-11-11,Sur,Acometida,PEAD,13,True,2025-11-24
+2025-11-18,Sur,Acometida,PEAD,10,True,2025-11-28
+2025-11-23,Oriente,Acometida,PEAD,6,True,2025-11-29
+2025-12-01,Norte Alto,Red,Asbesto-cemento,1,True,2025-12-02
+2025-12-04,Norte Alto,Acometida,PEAD,6,True,2025-12-10
+2025-12-08,Norte Alto,Acometida,PEAD,3,True,2025-12-11
+2025-12-08,Oriente,Red,PVC,4,True,2025-12-12
+2025-12-09,Centro,Acometida,PEAD,13,True,2025-12-22
+2025-12-11,Centro,Red,Asbesto-cemento,6,True,2025-12-17
+2025-12-14,Centro,Acometida,PEAD,7,True,2025-12-21
+2025-12-17,Norte Alto,Acometida,PEAD,2,True,2025-12-19
+2025-12-20,Centro,Acometida,PEAD,10,True,2025-12-30
+2025-12-21,Norte Alto,Acometida,PEAD,4,True,2025-12-25
+2025-12-25,Norte Alto,Acometida,PEAD,8,True,2026-01-02
+2026-01-02,Centro,Acometida,PEAD,5,True,2026-01-07
+2026-01-02,Norte Alto,Acometida,PEAD,13,True,2026-01-15
+2026-01-09,Sur,Acometida,PEAD,2,True,2026-01-11
+2026-01-12,Norte Alto,Red,Asbesto-cemento,14,True,2026-01-26
+2026-01-13,Centro,Acometida,PEAD,4,False,2026-01-17
+2026-01-14,Sur,Acometida,PEAD,14,True,2026-01-28
+2026-01-18,Centro,Acometida,PEAD,9,False,2026-01-27
+2026-01-20,Norte Alto,Acometida,PEAD,14,True,2026-02-03
+2026-01-26,Norte Alto,Acometida,PEAD,1,True,2026-01-27
+2026-01-26,Oriente,Acometida,PEAD,8,True,2026-02-03
+2026-01-31,Centro,Acometida,PEAD,10,True,2026-02-10
+2026-02-01,Norte Alto,Red,Asbesto-cemento,8,True,2026-02-09
+2026-02-01,Oriente,Acometida,PEAD,11,True,2026-02-12
+2026-02-04,Oriente,Acometida,PEAD,4,True,2026-02-08
+2026-02-15,Oriente,Acometida,PEAD,2,False,2026-02-17
+2026-02-15,Oriente,Acometida,PEAD,3,True,2026-02-18
+2026-03-06,Oriente,Red,Asbesto-cemento,4,True,2026-03-10
+2026-03-11,Norte Alto,Acometida,PEAD,6,False,2026-03-17
+2026-03-20,Centro,Acometida,PEAD,3,True,2026-03-23
+2026-03-28,Norte Alto,Acometida,PEAD,10,True,2026-04-07
+2026-03-28,Centro,Red,Asbesto-cemento,8,True,2026-04-05
+2026-03-29,Centro,Acometida,PEAD,7,True,2026-04-05
+2026-04-09,Sur,Acometida,PEAD,1,True,2026-04-10
+2026-04-14,Centro,Acometida,PEAD,2,True,2026-04-16
+2026-04-16,Norte Alto,Acometida,PEAD,12,True,2026-04-28
+2026-04-17,Oriente,Acometida,PEAD,12,True,2026-04-29
+2026-04-17,Norte Alto,Acometida,PEAD,7,True,2026-04-24
+2026-05-02,Oriente,Red,Asbesto-cemento,5,True,2026-05-07
+2026-05-07,Centro,Acometida,PEAD,2,True,2026-05-09
+2026-05-08,Sur,Acometida,PEAD,12,False,2026-05-20
+2026-05-09,Centro,Acometida,PEAD,4,False,2026-05-13
+2026-05-10,Oriente,Acometida,PEAD,13,True,2026-05-23
+2026-05-17,Sur,Acometida,PEAD,5,True,2026-05-22
+2026-05-23,Oriente,Acometida,PEAD,11,True,2026-06-03
+2026-05-25,Oriente,Acometida,PEAD,13,True,2026-06-07
+2026-05-26,Sur,Acometida,PEAD,7,True,2026-06-02
+2026-05-29,Norte Alto,Red,Asbesto-cemento,14,True,2026-06-12
+2026-05-31,Centro,Acometida,PEAD,12,True,2026-06-12
+2026-06-02,Centro,Red,PVC,1,True,2026-06-03
+2026-06-07,Centro,Red,PVC,3,True,2026-06-10
+2026-06-07,Norte Alto,Acometida,PEAD,11,True,2026-06-18
+2026-06-10,Centro,Acometida,PEAD,2,False,2026-06-12
+2026-06-13,Oriente,Acometida,PEAD,3,True,2026-06-16
+2026-06-13,Oriente,Acometida,PEAD,1,True,2026-06-14
+2026-06-14,Oriente,Red,PVC,14,True,2026-06-28
+2026-06-14,Norte Alto,Acometida,PEAD,14,False,2026-06-28
+2026-06-14,Centro,Acometida,PEAD,1,True,2026-06-15
+2026-06-16,Oriente,Acometida,PEAD,2,True,2026-06-18
+2026-06-28,Norte Alto,Red,Asbesto-cemento,8,True,2026-07-06
+2026-07-07,Oriente,Red,Asbesto-cemento,7,True,2026-07-14
+2026-07-11,Centro,Acometida,PEAD,1,True,2026-07-12
+2026-07-15,Centro,Acometida,PEAD,2,False,2026-07-17
+2026-07-20,Norte Alto,Acometida,PEAD,9,True,2026-07-29
+2026-07-21,Norte Alto,Acometida,PEAD,7,True,2026-07-28
+2026-08-02,Centro,Acometida,PEAD,8,True,2026-08-10
+2026-08-07,Norte Alto,Red,Asbesto-cemento,2,True,2026-08-09
+2026-08-08,Centro,Red,Asbesto-cemento,9,False,2026-08-17
+2026-08-25,Oriente,Acometida,PEAD,4,True,2026-08-29
+2026-08-25,Sur,Acometida,PEAD,13,True,2026-09-07
+2026-09-11,Norte Alto,Acometida,PEAD,5,True,2026-09-16
+2026-09-14,Oriente,Acometida,PEAD,8,True,2026-09-22
+2026-09-15,Centro,Acometida,PEAD,6,True,2026-09-21
+2026-09-19,Centro,Acometida,PEAD,2,True,2026-09-21
+2026-09-23,Norte Alto,Acometida,PEAD,7,True,2026-09-30
+2026-09-24,Norte Alto,Acometida,PEAD,9,True,2026-10-03

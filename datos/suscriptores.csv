@@ -1,0 +1,621 @@
+id_suscriptor,sector,uso,personas,cota_m,medido,descripcion,anio_medidor
+PS-0001,Centro,Oficial,0,51.4,True,Escuela rural,2015
+PS-0002,Centro,Oficial,0,48.7,True,Puesto de salud,2012
+PS-0003,Centro,Comercial,0,54.1,True,Tienda,2022
+PS-0004,Centro,Comercial,0,51.5,False,Restaurante,
+PS-0005,Centro,Residencial,3,54.2,False,,
+PS-0006,Centro,Residencial,6,52.5,True,,2012
+PS-0007,Centro,Residencial,4,49.5,True,,2011
+PS-0008,Centro,Residencial,5,47.8,True,,2019
+PS-0009,Centro,Residencial,5,49.3,False,,
+PS-0010,Centro,Residencial,4,45.1,True,,2015
+PS-0011,Centro,Residencial,6,47.0,False,,
+PS-0012,Centro,Residencial,3,49.4,True,,2008
+PS-0013,Centro,Residencial,6,53.7,False,,
+PS-0014,Centro,Residencial,3,51.1,True,,2011
+PS-0015,Centro,Residencial,4,50.6,True,,2010
+PS-0016,Centro,Residencial,6,54.0,True,,2011
+PS-0017,Centro,Residencial,4,48.1,True,,2008
+PS-0018,Centro,Residencial,4,52.0,True,,2020
+PS-0019,Centro,Residencial,4,50.8,True,,2018
+PS-0020,Centro,Residencial,4,52.3,True,,2010
+PS-0021,Centro,Residencial,4,48.7,True,,2020
+PS-0022,Centro,Residencial,4,49.9,True,,2009
+PS-0023,Centro,Residencial,2,50.8,True,,2011
+PS-0024,Centro,Residencial,4,45.0,False,,
+PS-0025,Centro,Residencial,5,48.3,True,,2020
+PS-0026,Centro,Residencial,4,45.9,False,,
+PS-0027,Centro,Residencial,4,45.6,True,,2008
+PS-0028,Centro,Residencial,6,52.3,True,,2019
+PS-0029,Centro,Residencial,4,49.2,False,,
+PS-0030,Centro,Residencial,4,54.6,False,,
+PS-0031,Centro,Residencial,6,46.6,False,,
+PS-0032,Centro,Residencial,4,45.2,True,,2018
+PS-0033,Centro,Residencial,6,51.7,True,,2008
+PS-0034,Centro,Residencial,3,45.9,True,,2013
+PS-0035,Centro,Residencial,5,49.9,False,,
+PS-0036,Centro,Residencial,4,50.6,False,,
+PS-0037,Centro,Residencial,3,46.9,False,,
+PS-0038,Centro,Residencial,6,52.9,False,,
+PS-0039,Centro,Residencial,2,50.5,False,,
+PS-0040,Centro,Residencial,4,47.3,False,,
+PS-0041,Centro,Residencial,4,46.3,False,,
+PS-0042,Centro,Residencial,5,49.0,False,,
+PS-0043,Centro,Residencial,3,51.1,False,,
+PS-0044,Centro,Residencial,2,51.3,True,,2022
+PS-0045,Centro,Residencial,2,48.4,False,,
+PS-0046,Centro,Residencial,4,46.3,True,,2011
+PS-0047,Centro,Residencial,3,45.8,False,,
+PS-0048,Centro,Residencial,2,47.3,True,,2015
+PS-0049,Centro,Residencial,6,53.8,True,,2018
+PS-0050,Centro,Residencial,4,48.2,True,,2019
+PS-0051,Centro,Residencial,2,51.6,False,,
+PS-0052,Centro,Residencial,2,49.7,False,,
+PS-0053,Centro,Residencial,3,52.0,False,,
+PS-0054,Centro,Residencial,6,53.9,True,,2017
+PS-0055,Centro,Residencial,4,52.2,False,,
+PS-0056,Centro,Residencial,4,48.4,False,,
+PS-0057,Centro,Residencial,4,49.1,True,,2014
+PS-0058,Centro,Residencial,4,48.5,False,,
+PS-0059,Centro,Residencial,3,46.1,True,,2020
+PS-0060,Centro,Residencial,3,46.0,True,,2012
+PS-0061,Centro,Residencial,2,48.2,False,,
+PS-0062,Centro,Residencial,6,47.4,False,,
+PS-0063,Centro,Residencial,3,52.9,True,,2020
+PS-0064,Centro,Residencial,3,46.8,False,,
+PS-0065,Centro,Residencial,5,49.4,True,,2022
+PS-0066,Centro,Residencial,4,52.8,True,,2018
+PS-0067,Centro,Residencial,2,54.7,True,,2022
+PS-0068,Centro,Residencial,2,46.2,True,,2022
+PS-0069,Centro,Residencial,3,48.4,False,,
+PS-0070,Centro,Residencial,3,54.6,False,,
+PS-0071,Centro,Residencial,4,53.5,True,,2008
+PS-0072,Centro,Residencial,2,53.1,True,,2009
+PS-0073,Centro,Residencial,4,52.2,False,,
+PS-0074,Centro,Residencial,4,54.8,True,,2018
+PS-0075,Centro,Residencial,5,52.4,True,,2009
+PS-0076,Centro,Residencial,4,51.6,True,,2013
+PS-0077,Centro,Residencial,4,50.5,True,,2018
+PS-0078,Centro,Residencial,3,50.8,False,,
+PS-0079,Centro,Residencial,2,54.1,True,,2022
+PS-0080,Centro,Residencial,4,47.9,True,,2021
+PS-0081,Centro,Residencial,5,51.5,True,,2011
+PS-0082,Centro,Residencial,5,52.4,False,,
+PS-0083,Centro,Residencial,4,45.8,True,,2015
+PS-0084,Centro,Residencial,5,54.0,False,,
+PS-0085,Centro,Residencial,3,50.5,True,,2018
+PS-0086,Centro,Residencial,3,49.2,True,,2011
+PS-0087,Centro,Residencial,2,47.7,False,,
+PS-0088,Centro,Residencial,3,50.9,True,,2019
+PS-0089,Centro,Residencial,3,49.9,False,,
+PS-0090,Centro,Residencial,4,50.3,True,,2021
+PS-0091,Centro,Residencial,4,50.7,False,,
+PS-0092,Centro,Residencial,3,50.5,False,,
+PS-0093,Centro,Residencial,4,47.0,False,,
+PS-0094,Centro,Residencial,2,50.7,True,,2019
+PS-0095,Centro,Residencial,4,48.0,False,,
+PS-0096,Centro,Residencial,3,48.7,True,,2009
+PS-0097,Centro,Residencial,4,54.5,False,,
+PS-0098,Centro,Residencial,5,49.8,True,,2013
+PS-0099,Centro,Residencial,3,49.9,True,,2012
+PS-0100,Centro,Residencial,2,46.2,True,,2015
+PS-0101,Centro,Residencial,4,46.6,True,,2014
+PS-0102,Centro,Residencial,6,54.2,False,,
+PS-0103,Centro,Residencial,6,48.5,False,,
+PS-0104,Centro,Residencial,4,54.8,False,,
+PS-0105,Centro,Residencial,2,50.1,True,,2014
+PS-0106,Centro,Residencial,6,52.9,False,,
+PS-0107,Centro,Residencial,5,50.1,True,,2023
+PS-0108,Centro,Residencial,3,53.8,True,,2023
+PS-0109,Centro,Residencial,2,54.4,False,,
+PS-0110,Centro,Residencial,2,52.4,True,,2010
+PS-0111,Centro,Residencial,4,45.1,True,,2021
+PS-0112,Centro,Residencial,4,48.3,True,,2019
+PS-0113,Centro,Residencial,4,46.7,True,,2017
+PS-0114,Centro,Residencial,5,52.0,False,,
+PS-0115,Centro,Residencial,6,52.4,False,,
+PS-0116,Centro,Residencial,6,50.2,False,,
+PS-0117,Centro,Residencial,3,48.5,False,,
+PS-0118,Centro,Residencial,4,49.3,False,,
+PS-0119,Centro,Residencial,5,46.1,True,,2014
+PS-0120,Centro,Residencial,4,50.1,False,,
+PS-0121,Centro,Residencial,6,48.4,True,,2015
+PS-0122,Centro,Residencial,4,50.3,True,,2023
+PS-0123,Centro,Residencial,3,50.7,True,,2014
+PS-0124,Centro,Residencial,3,49.6,True,,2019
+PS-0125,Centro,Residencial,3,53.4,True,,2018
+PS-0126,Centro,Residencial,3,53.9,False,,
+PS-0127,Centro,Residencial,3,49.0,True,,2019
+PS-0128,Centro,Residencial,3,46.0,True,,2023
+PS-0129,Centro,Residencial,3,53.3,True,,2021
+PS-0130,Centro,Residencial,5,52.1,True,,2020
+PS-0131,Centro,Residencial,2,48.2,True,,2017
+PS-0132,Centro,Residencial,4,53.9,False,,
+PS-0133,Centro,Residencial,4,53.8,True,,2019
+PS-0134,Centro,Residencial,3,51.8,False,,
+PS-0135,Centro,Residencial,5,53.3,True,,2022
+PS-0136,Centro,Residencial,4,54.6,False,,
+PS-0137,Centro,Residencial,4,54.1,True,,2015
+PS-0138,Centro,Residencial,6,51.5,False,,
+PS-0139,Centro,Residencial,5,50.3,True,,2017
+PS-0140,Centro,Residencial,4,46.6,False,,
+PS-0141,Centro,Residencial,5,52.3,True,,2012
+PS-0142,Centro,Residencial,3,49.1,True,,2014
+PS-0143,Centro,Residencial,3,47.9,True,,2022
+PS-0144,Centro,Residencial,4,47.9,True,,2023
+PS-0145,Centro,Residencial,4,46.7,False,,
+PS-0146,Centro,Residencial,4,52.8,False,,
+PS-0147,Centro,Residencial,4,53.7,True,,2011
+PS-0148,Centro,Residencial,4,54.9,True,,2013
+PS-0149,Centro,Residencial,6,45.9,False,,
+PS-0150,Centro,Residencial,3,49.9,False,,
+PS-0151,Centro,Residencial,6,53.9,True,,2010
+PS-0152,Centro,Residencial,3,47.4,False,,
+PS-0153,Centro,Residencial,3,50.3,True,,2016
+PS-0154,Centro,Residencial,2,45.5,True,,2009
+PS-0155,Centro,Residencial,4,47.5,False,,
+PS-0156,Centro,Residencial,3,51.0,True,,2016
+PS-0157,Centro,Residencial,4,48.7,False,,
+PS-0158,Centro,Residencial,5,48.8,False,,
+PS-0159,Centro,Residencial,3,47.8,False,,
+PS-0160,Centro,Residencial,4,51.2,False,,
+PS-0161,Centro,Residencial,6,47.5,True,,2010
+PS-0162,Centro,Residencial,3,45.3,True,,2012
+PS-0163,Centro,Residencial,3,48.2,False,,
+PS-0164,Centro,Residencial,4,45.7,False,,
+PS-0165,Centro,Residencial,5,53.7,False,,
+PS-0166,Centro,Residencial,3,51.9,True,,2012
+PS-0167,Centro,Residencial,4,52.6,False,,
+PS-0168,Centro,Residencial,2,45.8,False,,
+PS-0169,Centro,Residencial,4,49.5,False,,
+PS-0170,Centro,Residencial,2,53.0,True,,2011
+PS-0171,Centro,Residencial,6,48.3,True,,2012
+PS-0172,Centro,Residencial,3,54.3,False,,
+PS-0173,Centro,Residencial,4,45.7,True,,2023
+PS-0174,Centro,Residencial,4,54.3,True,,2020
+PS-0175,Centro,Residencial,3,52.9,True,,2018
+PS-0176,Centro,Residencial,3,49.1,True,,2016
+PS-0177,Centro,Residencial,4,49.7,False,,
+PS-0178,Centro,Residencial,4,50.0,True,,2011
+PS-0179,Centro,Residencial,5,52.6,True,,2019
+PS-0180,Centro,Residencial,3,51.1,False,,
+PS-0181,Centro,Residencial,3,45.9,True,,2017
+PS-0182,Centro,Residencial,6,51.6,True,,2014
+PS-0183,Centro,Residencial,4,54.0,False,,
+PS-0184,Centro,Residencial,3,47.2,True,,2010
+PS-0185,Centro,Residencial,4,50.7,False,,
+PS-0186,Centro,Residencial,5,50.2,True,,2018
+PS-0187,Centro,Residencial,5,49.2,False,,
+PS-0188,Centro,Residencial,3,45.0,True,,2008
+PS-0189,Centro,Residencial,6,51.7,True,,2009
+PS-0190,Centro,Residencial,4,53.8,True,,2008
+PS-0191,Centro,Residencial,5,53.3,False,,
+PS-0192,Centro,Residencial,5,47.6,False,,
+PS-0193,Centro,Residencial,2,49.0,True,,2017
+PS-0194,Centro,Residencial,3,49.8,True,,2012
+PS-0195,Centro,Residencial,2,45.1,True,,2018
+PS-0196,Centro,Residencial,6,53.4,True,,2017
+PS-0197,Centro,Residencial,2,50.3,False,,
+PS-0198,Centro,Residencial,4,52.0,False,,
+PS-0199,Centro,Residencial,2,50.8,True,,2018
+PS-0200,Centro,Residencial,5,46.1,True,,2023
+PS-0201,Centro,Residencial,4,47.7,False,,
+PS-0202,Centro,Residencial,5,48.1,True,,2009
+PS-0203,Centro,Residencial,5,48.8,True,,2022
+PS-0204,Centro,Residencial,3,49.3,False,,
+PS-0205,Centro,Residencial,3,49.9,False,,
+PS-0206,Centro,Residencial,4,47.2,True,,2019
+PS-0207,Centro,Residencial,4,50.0,False,,
+PS-0208,Centro,Residencial,6,50.5,True,,2023
+PS-0209,Centro,Residencial,4,54.1,False,,
+PS-0210,Centro,Residencial,4,50.9,True,,2010
+PS-0211,Centro,Residencial,6,54.4,False,,
+PS-0212,Centro,Residencial,4,47.8,False,,
+PS-0213,Centro,Residencial,2,53.7,True,,2009
+PS-0214,Centro,Residencial,4,54.8,False,,
+PS-0215,Centro,Residencial,2,50.4,True,,2009
+PS-0216,Centro,Residencial,3,52.2,False,,
+PS-0217,Centro,Residencial,4,53.5,False,,
+PS-0218,Centro,Residencial,4,45.9,False,,
+PS-0219,Centro,Residencial,3,46.9,True,,2012
+PS-0220,Centro,Residencial,4,50.1,False,,
+PS-0221,Sur,Residencial,2,40.8,False,,
+PS-0222,Sur,Residencial,6,46.7,False,,
+PS-0223,Sur,Residencial,6,44.8,True,,2017
+PS-0224,Sur,Residencial,5,44.0,False,,
+PS-0225,Sur,Residencial,3,42.8,True,,2021
+PS-0226,Sur,Residencial,6,46.0,False,,
+PS-0227,Sur,Residencial,4,47.8,False,,
+PS-0228,Sur,Residencial,4,45.4,False,,
+PS-0229,Sur,Residencial,2,47.6,False,,
+PS-0230,Sur,Residencial,4,44.7,True,,2013
+PS-0231,Sur,Residencial,4,44.3,True,,2011
+PS-0232,Sur,Residencial,3,41.3,False,,
+PS-0233,Sur,Residencial,3,40.2,True,,2017
+PS-0234,Sur,Residencial,4,44.9,False,,
+PS-0235,Sur,Residencial,2,41.0,False,,
+PS-0236,Sur,Residencial,4,42.1,True,,2011
+PS-0237,Sur,Residencial,2,44.7,False,,
+PS-0238,Sur,Residencial,4,41.7,True,,2013
+PS-0239,Sur,Residencial,5,46.2,True,,2014
+PS-0240,Sur,Residencial,3,47.4,True,,2014
+PS-0241,Sur,Residencial,5,46.1,False,,
+PS-0242,Sur,Residencial,4,43.3,False,,
+PS-0243,Sur,Residencial,3,47.3,True,,2015
+PS-0244,Sur,Residencial,4,44.8,False,,
+PS-0245,Sur,Residencial,3,40.7,False,,
+PS-0246,Sur,Residencial,6,45.5,False,,
+PS-0247,Sur,Residencial,4,43.6,False,,
+PS-0248,Sur,Residencial,4,42.3,True,,2010
+PS-0249,Sur,Residencial,3,46.5,False,,
+PS-0250,Sur,Residencial,4,43.6,False,,
+PS-0251,Sur,Residencial,4,42.3,False,,
+PS-0252,Sur,Residencial,4,47.7,True,,2014
+PS-0253,Sur,Residencial,4,44.7,False,,
+PS-0254,Sur,Residencial,3,44.9,False,,
+PS-0255,Sur,Residencial,4,45.7,False,,
+PS-0256,Sur,Residencial,6,41.4,True,,2017
+PS-0257,Sur,Residencial,2,43.2,True,,2012
+PS-0258,Sur,Residencial,5,40.5,True,,2010
+PS-0259,Sur,Residencial,2,47.4,True,,2013
+PS-0260,Sur,Residencial,4,46.3,True,,2012
+PS-0261,Sur,Residencial,2,47.4,False,,
+PS-0262,Sur,Residencial,5,43.6,False,,
+PS-0263,Sur,Residencial,3,47.4,False,,
+PS-0264,Sur,Residencial,3,47.7,False,,
+PS-0265,Sur,Residencial,4,45.5,False,,
+PS-0266,Sur,Residencial,4,42.4,False,,
+PS-0267,Sur,Residencial,5,42.0,False,,
+PS-0268,Sur,Residencial,2,47.6,True,,2012
+PS-0269,Sur,Residencial,5,46.5,False,,
+PS-0270,Sur,Residencial,6,44.6,True,,2011
+PS-0271,Sur,Residencial,3,42.9,True,,2009
+PS-0272,Sur,Residencial,2,40.7,True,,2016
+PS-0273,Sur,Residencial,3,44.0,False,,
+PS-0274,Sur,Residencial,3,44.7,False,,
+PS-0275,Sur,Residencial,5,46.8,False,,
+PS-0276,Sur,Residencial,5,44.9,False,,
+PS-0277,Sur,Residencial,2,44.9,False,,
+PS-0278,Sur,Residencial,2,43.4,False,,
+PS-0279,Sur,Residencial,4,46.1,False,,
+PS-0280,Sur,Residencial,5,45.8,False,,
+PS-0281,Sur,Residencial,3,40.2,False,,
+PS-0282,Sur,Residencial,4,43.7,True,,2013
+PS-0283,Sur,Residencial,3,43.2,False,,
+PS-0284,Sur,Residencial,3,44.1,True,,2014
+PS-0285,Sur,Residencial,4,47.8,True,,2023
+PS-0286,Sur,Residencial,2,47.4,True,,2011
+PS-0287,Sur,Residencial,2,46.3,False,,
+PS-0288,Sur,Residencial,4,45.6,True,,2010
+PS-0289,Sur,Residencial,4,45.2,False,,
+PS-0290,Sur,Residencial,5,48.0,False,,
+PS-0291,Sur,Residencial,5,47.7,False,,
+PS-0292,Sur,Residencial,5,44.9,False,,
+PS-0293,Sur,Residencial,4,45.1,False,,
+PS-0294,Sur,Residencial,4,40.0,True,,2022
+PS-0295,Sur,Residencial,4,42.3,False,,
+PS-0296,Sur,Residencial,4,47.9,True,,2016
+PS-0297,Sur,Residencial,3,43.0,False,,
+PS-0298,Sur,Residencial,5,40.7,False,,
+PS-0299,Sur,Residencial,4,46.6,True,,2017
+PS-0300,Sur,Residencial,4,44.2,False,,
+PS-0301,Sur,Residencial,6,41.3,False,,
+PS-0302,Sur,Residencial,4,41.8,True,,2010
+PS-0303,Sur,Residencial,6,46.3,False,,
+PS-0304,Sur,Residencial,2,47.0,False,,
+PS-0305,Sur,Residencial,2,47.4,False,,
+PS-0306,Sur,Residencial,6,45.1,False,,
+PS-0307,Sur,Residencial,4,41.9,False,,
+PS-0308,Sur,Residencial,4,40.4,False,,
+PS-0309,Sur,Residencial,3,46.0,False,,
+PS-0310,Sur,Residencial,6,43.9,True,,2022
+PS-0311,Sur,Residencial,4,45.9,False,,
+PS-0312,Sur,Residencial,4,46.1,False,,
+PS-0313,Sur,Residencial,4,45.7,False,,
+PS-0314,Sur,Residencial,4,44.4,True,,2017
+PS-0315,Sur,Residencial,4,46.6,False,,
+PS-0316,Sur,Residencial,5,40.2,False,,
+PS-0317,Sur,Residencial,4,44.0,False,,
+PS-0318,Sur,Residencial,2,41.8,False,,
+PS-0319,Sur,Residencial,3,43.1,False,,
+PS-0320,Sur,Residencial,4,42.0,True,,2021
+PS-0321,Sur,Residencial,3,45.6,False,,
+PS-0322,Sur,Residencial,5,43.1,True,,2010
+PS-0323,Sur,Residencial,4,45.9,False,,
+PS-0324,Sur,Residencial,4,47.2,False,,
+PS-0325,Sur,Residencial,4,46.7,False,,
+PS-0326,Sur,Residencial,3,42.2,True,,2016
+PS-0327,Sur,Residencial,4,46.2,False,,
+PS-0328,Sur,Residencial,3,42.1,False,,
+PS-0329,Sur,Residencial,3,45.8,True,,2015
+PS-0330,Sur,Residencial,3,46.1,True,,2017
+PS-0331,Sur,Residencial,3,42.8,False,,
+PS-0332,Sur,Residencial,4,47.1,True,,2023
+PS-0333,Sur,Residencial,4,43.6,True,,2013
+PS-0334,Sur,Residencial,6,41.6,True,,2020
+PS-0335,Sur,Residencial,5,46.8,True,,2008
+PS-0336,Sur,Residencial,2,45.2,False,,
+PS-0337,Sur,Residencial,5,43.7,True,,2014
+PS-0338,Sur,Residencial,4,41.5,False,,
+PS-0339,Sur,Residencial,3,43.9,True,,2013
+PS-0340,Sur,Residencial,6,46.7,True,,2009
+PS-0341,Sur,Residencial,4,47.8,False,,
+PS-0342,Sur,Residencial,4,42.4,True,,2022
+PS-0343,Sur,Residencial,4,47.1,False,,
+PS-0344,Sur,Residencial,4,42.7,True,,2019
+PS-0345,Sur,Residencial,3,45.0,True,,2015
+PS-0346,Sur,Residencial,4,44.6,False,,
+PS-0347,Sur,Residencial,3,46.2,True,,2016
+PS-0348,Sur,Residencial,3,40.7,False,,
+PS-0349,Sur,Residencial,3,44.9,False,,
+PS-0350,Sur,Residencial,5,40.7,False,,
+PS-0351,Sur,Residencial,5,40.1,False,,
+PS-0352,Sur,Residencial,4,41.8,False,,
+PS-0353,Sur,Residencial,3,45.4,False,,
+PS-0354,Sur,Residencial,4,46.2,True,,2016
+PS-0355,Sur,Residencial,6,43.4,True,,2009
+PS-0356,Sur,Residencial,3,45.8,False,,
+PS-0357,Sur,Residencial,4,44.8,True,,2021
+PS-0358,Sur,Residencial,4,46.9,False,,
+PS-0359,Sur,Residencial,3,47.9,False,,
+PS-0360,Sur,Residencial,5,45.2,False,,
+PS-0361,Sur,Residencial,2,47.6,False,,
+PS-0362,Sur,Residencial,4,43.0,True,,2010
+PS-0363,Sur,Residencial,2,40.7,False,,
+PS-0364,Sur,Residencial,6,42.8,False,,
+PS-0365,Sur,Residencial,4,41.9,False,,
+PS-0366,Sur,Residencial,3,43.1,False,,
+PS-0367,Sur,Residencial,4,41.3,False,,
+PS-0368,Sur,Residencial,3,44.7,False,,
+PS-0369,Sur,Residencial,2,43.9,False,,
+PS-0370,Sur,Residencial,3,47.2,False,,
+PS-0371,Sur,Residencial,3,40.6,True,,2014
+PS-0372,Sur,Residencial,4,44.5,False,,
+PS-0373,Sur,Residencial,5,45.6,True,,2011
+PS-0374,Sur,Residencial,3,47.3,True,,2014
+PS-0375,Sur,Residencial,4,44.0,False,,
+PS-0376,Sur,Residencial,4,43.2,True,,2014
+PS-0377,Sur,Residencial,3,47.7,False,,
+PS-0378,Sur,Residencial,4,40.1,True,,2009
+PS-0379,Sur,Residencial,2,42.8,True,,2020
+PS-0380,Sur,Residencial,3,47.6,True,,2014
+PS-0381,Oriente,Residencial,2,49.1,True,,2009
+PS-0382,Oriente,Residencial,4,52.4,False,,
+PS-0383,Oriente,Residencial,5,54.0,False,,
+PS-0384,Oriente,Residencial,2,49.9,True,,2020
+PS-0385,Oriente,Residencial,2,51.6,True,,2017
+PS-0386,Oriente,Residencial,5,48.4,False,,
+PS-0387,Oriente,Residencial,4,52.1,True,,2014
+PS-0388,Oriente,Residencial,4,55.3,False,,
+PS-0389,Oriente,Residencial,3,54.3,False,,
+PS-0390,Oriente,Residencial,3,48.2,False,,
+PS-0391,Oriente,Residencial,4,55.8,True,,2023
+PS-0392,Oriente,Residencial,3,50.4,False,,
+PS-0393,Oriente,Residencial,4,53.1,False,,
+PS-0394,Oriente,Residencial,6,49.0,True,,2020
+PS-0395,Oriente,Residencial,6,49.1,False,,
+PS-0396,Oriente,Residencial,5,55.6,False,,
+PS-0397,Oriente,Residencial,4,55.4,False,,
+PS-0398,Oriente,Residencial,3,53.9,True,,2022
+PS-0399,Oriente,Residencial,5,54.5,True,,2014
+PS-0400,Oriente,Residencial,4,50.1,False,,
+PS-0401,Oriente,Residencial,4,48.8,False,,
+PS-0402,Oriente,Residencial,5,52.6,False,,
+PS-0403,Oriente,Residencial,2,55.7,True,,2022
+PS-0404,Oriente,Residencial,3,54.6,True,,2022
+PS-0405,Oriente,Residencial,4,50.4,False,,
+PS-0406,Oriente,Residencial,4,55.0,False,,
+PS-0407,Oriente,Residencial,4,52.9,True,,2010
+PS-0408,Oriente,Residencial,4,53.5,False,,
+PS-0409,Oriente,Residencial,4,54.7,True,,2011
+PS-0410,Oriente,Residencial,4,52.4,True,,2015
+PS-0411,Oriente,Residencial,3,53.1,True,,2022
+PS-0412,Oriente,Residencial,3,55.9,False,,
+PS-0413,Oriente,Residencial,4,52.8,True,,2021
+PS-0414,Oriente,Residencial,3,53.3,False,,
+PS-0415,Oriente,Residencial,4,49.0,True,,2014
+PS-0416,Oriente,Residencial,5,53.3,True,,2015
+PS-0417,Oriente,Residencial,3,52.6,False,,
+PS-0418,Oriente,Residencial,6,54.1,False,,
+PS-0419,Oriente,Residencial,3,52.5,True,,2018
+PS-0420,Oriente,Residencial,4,55.4,False,,
+PS-0421,Oriente,Residencial,4,50.8,False,,
+PS-0422,Oriente,Residencial,2,52.7,True,,2011
+PS-0423,Oriente,Residencial,4,53.3,False,,
+PS-0424,Oriente,Residencial,3,49.2,False,,
+PS-0425,Oriente,Residencial,4,54.7,False,,
+PS-0426,Oriente,Residencial,5,54.5,False,,
+PS-0427,Oriente,Residencial,4,50.8,True,,2018
+PS-0428,Oriente,Residencial,5,48.8,False,,
+PS-0429,Oriente,Residencial,6,54.7,True,,2016
+PS-0430,Oriente,Residencial,2,54.5,False,,
+PS-0431,Oriente,Residencial,5,51.0,True,,2011
+PS-0432,Oriente,Residencial,2,49.6,True,,2020
+PS-0433,Oriente,Residencial,4,51.5,False,,
+PS-0434,Oriente,Residencial,6,48.4,True,,2008
+PS-0435,Oriente,Residencial,4,50.7,True,,2008
+PS-0436,Oriente,Residencial,4,49.3,False,,
+PS-0437,Oriente,Residencial,3,51.0,False,,
+PS-0438,Oriente,Residencial,6,50.3,True,,2010
+PS-0439,Oriente,Residencial,4,54.6,True,,2013
+PS-0440,Oriente,Residencial,3,54.6,True,,2022
+PS-0441,Oriente,Residencial,4,54.1,True,,2011
+PS-0442,Oriente,Residencial,4,55.0,False,,
+PS-0443,Oriente,Residencial,3,50.9,True,,2013
+PS-0444,Oriente,Residencial,4,52.8,True,,2010
+PS-0445,Oriente,Residencial,4,55.0,False,,
+PS-0446,Oriente,Residencial,6,53.5,False,,
+PS-0447,Oriente,Residencial,6,49.2,False,,
+PS-0448,Oriente,Residencial,3,52.0,False,,
+PS-0449,Oriente,Residencial,6,48.4,False,,
+PS-0450,Oriente,Residencial,4,49.6,True,,2017
+PS-0451,Oriente,Residencial,5,52.0,False,,
+PS-0452,Oriente,Residencial,2,53.3,False,,
+PS-0453,Oriente,Residencial,4,55.6,False,,
+PS-0454,Oriente,Residencial,5,54.3,False,,
+PS-0455,Oriente,Residencial,4,52.7,False,,
+PS-0456,Oriente,Residencial,2,52.4,True,,2023
+PS-0457,Oriente,Residencial,4,55.1,False,,
+PS-0458,Oriente,Residencial,3,49.1,False,,
+PS-0459,Oriente,Residencial,4,51.7,False,,
+PS-0460,Oriente,Residencial,4,50.6,False,,
+PS-0461,Oriente,Residencial,5,53.4,False,,
+PS-0462,Oriente,Residencial,4,55.8,False,,
+PS-0463,Oriente,Residencial,4,49.8,False,,
+PS-0464,Oriente,Residencial,2,48.2,False,,
+PS-0465,Oriente,Residencial,4,49.4,True,,2008
+PS-0466,Oriente,Residencial,3,48.1,True,,2015
+PS-0467,Oriente,Residencial,4,50.6,False,,
+PS-0468,Oriente,Residencial,6,48.8,False,,
+PS-0469,Oriente,Residencial,4,53.1,False,,
+PS-0470,Oriente,Residencial,4,51.1,False,,
+PS-0471,Oriente,Residencial,3,54.3,False,,
+PS-0472,Oriente,Residencial,3,48.6,True,,2020
+PS-0473,Oriente,Residencial,5,54.0,False,,
+PS-0474,Oriente,Residencial,3,52.2,False,,
+PS-0475,Oriente,Residencial,3,55.9,False,,
+PS-0476,Oriente,Residencial,3,53.2,True,,2019
+PS-0477,Oriente,Residencial,5,51.0,False,,
+PS-0478,Oriente,Residencial,3,48.7,True,,2014
+PS-0479,Oriente,Residencial,3,51.1,True,,2022
+PS-0480,Oriente,Residencial,5,48.8,True,,2011
+PS-0481,Oriente,Residencial,6,51.7,False,,
+PS-0482,Oriente,Residencial,4,53.3,True,,2017
+PS-0483,Oriente,Residencial,2,48.1,False,,
+PS-0484,Oriente,Residencial,4,50.5,False,,
+PS-0485,Oriente,Residencial,5,55.9,False,,
+PS-0486,Oriente,Residencial,6,48.6,True,,2012
+PS-0487,Oriente,Residencial,4,48.8,True,,2020
+PS-0488,Oriente,Residencial,3,55.1,True,,2021
+PS-0489,Oriente,Residencial,6,54.6,False,,
+PS-0490,Oriente,Residencial,3,50.6,False,,
+PS-0491,Oriente,Residencial,6,53.8,True,,2013
+PS-0492,Oriente,Residencial,4,54.0,True,,2020
+PS-0493,Oriente,Residencial,3,55.6,True,,2015
+PS-0494,Oriente,Residencial,4,54.2,False,,
+PS-0495,Oriente,Residencial,4,52.1,True,,2023
+PS-0496,Oriente,Residencial,3,51.6,False,,
+PS-0497,Oriente,Residencial,4,54.5,False,,
+PS-0498,Oriente,Residencial,5,51.9,False,,
+PS-0499,Oriente,Residencial,6,51.9,True,,2013
+PS-0500,Oriente,Residencial,6,50.9,False,,
+PS-0501,Oriente,Residencial,3,49.5,False,,
+PS-0502,Oriente,Residencial,4,53.2,True,,2019
+PS-0503,Oriente,Residencial,3,52.1,False,,
+PS-0504,Oriente,Residencial,5,52.2,False,,
+PS-0505,Oriente,Residencial,4,53.5,True,,2011
+PS-0506,Oriente,Residencial,6,51.3,True,,2023
+PS-0507,Oriente,Residencial,6,54.5,False,,
+PS-0508,Oriente,Residencial,3,54.5,True,,2023
+PS-0509,Oriente,Residencial,5,48.6,True,,2008
+PS-0510,Oriente,Residencial,4,51.3,False,,
+PS-0511,Norte Alto,Residencial,4,62.2,False,,
+PS-0512,Norte Alto,Residencial,4,60.4,False,,
+PS-0513,Norte Alto,Residencial,3,66.4,False,,
+PS-0514,Norte Alto,Residencial,6,63.8,False,,
+PS-0515,Norte Alto,Residencial,4,67.1,False,,
+PS-0516,Norte Alto,Residencial,4,67.0,False,,
+PS-0517,Norte Alto,Residencial,2,62.8,False,,
+PS-0518,Norte Alto,Residencial,3,62.2,False,,
+PS-0519,Norte Alto,Residencial,4,62.3,False,,
+PS-0520,Norte Alto,Residencial,4,66.6,False,,
+PS-0521,Norte Alto,Residencial,3,69.5,False,,
+PS-0522,Norte Alto,Residencial,5,69.1,False,,
+PS-0523,Norte Alto,Residencial,6,63.6,True,,2009
+PS-0524,Norte Alto,Residencial,6,69.3,False,,
+PS-0525,Norte Alto,Residencial,3,70.0,False,,
+PS-0526,Norte Alto,Residencial,5,62.9,False,,
+PS-0527,Norte Alto,Residencial,6,61.7,False,,
+PS-0528,Norte Alto,Residencial,5,67.2,False,,
+PS-0529,Norte Alto,Residencial,3,69.1,False,,
+PS-0530,Norte Alto,Residencial,3,67.3,False,,
+PS-0531,Norte Alto,Residencial,2,61.5,False,,
+PS-0532,Norte Alto,Residencial,4,65.9,False,,
+PS-0533,Norte Alto,Residencial,2,68.3,False,,
+PS-0534,Norte Alto,Residencial,6,66.5,False,,
+PS-0535,Norte Alto,Residencial,4,65.1,False,,
+PS-0536,Norte Alto,Residencial,4,60.1,False,,
+PS-0537,Norte Alto,Residencial,4,60.9,False,,
+PS-0538,Norte Alto,Residencial,3,64.5,False,,
+PS-0539,Norte Alto,Residencial,5,64.5,True,,2012
+PS-0540,Norte Alto,Residencial,4,62.4,False,,
+PS-0541,Norte Alto,Residencial,3,62.6,False,,
+PS-0542,Norte Alto,Residencial,3,62.3,False,,
+PS-0543,Norte Alto,Residencial,6,63.6,False,,
+PS-0544,Norte Alto,Residencial,5,67.8,False,,
+PS-0545,Norte Alto,Residencial,4,65.8,True,,2015
+PS-0546,Norte Alto,Residencial,4,68.6,False,,
+PS-0547,Norte Alto,Residencial,2,61.8,True,,2010
+PS-0548,Norte Alto,Residencial,6,69.0,False,,
+PS-0549,Norte Alto,Residencial,5,67.6,False,,
+PS-0550,Norte Alto,Residencial,6,66.3,False,,
+PS-0551,Norte Alto,Residencial,3,66.4,False,,
+PS-0552,Norte Alto,Residencial,5,62.9,True,,2017
+PS-0553,Norte Alto,Residencial,4,67.2,False,,
+PS-0554,Norte Alto,Residencial,4,63.1,False,,
+PS-0555,Norte Alto,Residencial,6,62.5,False,,
+PS-0556,Norte Alto,Residencial,6,68.8,False,,
+PS-0557,Norte Alto,Residencial,6,66.5,True,,2008
+PS-0558,Norte Alto,Residencial,2,62.8,False,,
+PS-0559,Norte Alto,Residencial,4,62.2,False,,
+PS-0560,Norte Alto,Residencial,4,65.7,False,,
+PS-0561,Norte Alto,Residencial,6,68.3,False,,
+PS-0562,Norte Alto,Residencial,4,60.8,False,,
+PS-0563,Norte Alto,Residencial,4,62.9,False,,
+PS-0564,Norte Alto,Residencial,2,64.7,False,,
+PS-0565,Norte Alto,Residencial,3,68.6,True,,2009
+PS-0566,Norte Alto,Residencial,3,64.6,False,,
+PS-0567,Norte Alto,Residencial,4,64.6,False,,
+PS-0568,Norte Alto,Residencial,3,68.6,True,,2010
+PS-0569,Norte Alto,Residencial,3,64.7,False,,
+PS-0570,Norte Alto,Residencial,2,68.7,False,,
+PS-0571,Norte Alto,Residencial,4,66.7,False,,
+PS-0572,Norte Alto,Residencial,6,68.6,False,,
+PS-0573,Norte Alto,Residencial,3,68.8,False,,
+PS-0574,Norte Alto,Residencial,2,61.4,True,,2015
+PS-0575,Norte Alto,Residencial,2,64.9,True,,2022
+PS-0576,Norte Alto,Residencial,2,64.2,False,,
+PS-0577,Norte Alto,Residencial,3,61.1,True,,2010
+PS-0578,Norte Alto,Residencial,2,69.0,False,,
+PS-0579,Norte Alto,Residencial,4,69.8,False,,
+PS-0580,Norte Alto,Residencial,4,69.3,False,,
+PS-0581,Norte Alto,Residencial,3,67.0,False,,
+PS-0582,Norte Alto,Residencial,4,61.9,True,,2014
+PS-0583,Norte Alto,Residencial,2,63.7,False,,
+PS-0584,Norte Alto,Residencial,6,64.3,True,,2013
+PS-0585,Norte Alto,Residencial,4,60.9,False,,
+PS-0586,Norte Alto,Residencial,4,63.9,False,,
+PS-0587,Norte Alto,Residencial,3,60.3,True,,2008
+PS-0588,Norte Alto,Residencial,2,69.4,False,,
+PS-0589,Norte Alto,Residencial,5,63.9,False,,
+PS-0590,Norte Alto,Residencial,4,61.6,False,,
+PS-0591,Norte Alto,Residencial,3,69.6,False,,
+PS-0592,Norte Alto,Residencial,4,68.2,True,,2020
+PS-0593,Norte Alto,Residencial,3,60.0,False,,
+PS-0594,Norte Alto,Residencial,4,62.6,False,,
+PS-0595,Norte Alto,Residencial,4,60.9,False,,
+PS-0596,Norte Alto,Residencial,3,65.7,False,,
+PS-0597,Norte Alto,Residencial,4,64.9,False,,
+PS-0598,Norte Alto,Residencial,5,68.1,True,,2019
+PS-0599,Norte Alto,Residencial,4,60.4,False,,
+PS-0600,Norte Alto,Residencial,4,63.7,False,,
+PS-0601,Norte Alto,Residencial,2,65.9,False,,
+PS-0602,Norte Alto,Residencial,3,68.3,False,,
+PS-0603,Norte Alto,Residencial,4,68.0,True,,2009
+PS-0604,Norte Alto,Residencial,2,66.6,True,,2010
+PS-0605,Norte Alto,Residencial,4,69.4,False,,
+PS-0606,Norte Alto,Residencial,2,64.6,False,,
+PS-0607,Norte Alto,Residencial,4,62.9,False,,
+PS-0608,Norte Alto,Residencial,3,60.7,False,,
+PS-0609,Norte Alto,Residencial,4,60.5,False,,
+PS-0610,Norte Alto,Residencial,2,66.8,False,,
+PS-0611,Norte Alto,Residencial,2,63.2,False,,
+PS-0612,Norte Alto,Residencial,4,68.8,False,,
+PS-0613,Norte Alto,Residencial,4,68.8,False,,
+PS-0614,Norte Alto,Residencial,4,62.1,False,,
+PS-0615,Norte Alto,Residencial,6,62.1,False,,
+PS-0616,Norte Alto,Residencial,3,66.3,True,,2020
+PS-0617,Norte Alto,Residencial,3,63.9,False,,
+PS-0618,Norte Alto,Residencial,3,67.2,False,,
+PS-0619,Norte Alto,Residencial,4,68.3,False,,
+PS-0620,Norte Alto,Residencial,4,61.8,False,,

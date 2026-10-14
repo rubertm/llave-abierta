@@ -1,0 +1,7 @@
+# Solucionario: se genera localmente con scripts/generar_datos.py
+datos/_solucionario/
+# Jupyter Book
+libro/_build/
+.ipynb_checkpoints/
+__pycache__/
+.venv/

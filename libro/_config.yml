@@ -1,0 +1,28 @@
+title: "Hasta la Última Llave"
+author: Rubert Ernesto Montes Correa
+copyright: "2026"
+logo: ""
+language: es
+
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: force
+  timeout: 300
+
+repository:
+  url: https://github.com/rubertm/llave-abierta
+  path_to_book: libro
+  branch: main
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  home_page_in_navbar: true
+  extra_footer: |
+    <p>Llave Abierta: agua para todos, con ingeniería abierta para acueductos pequeños.
+    Texto y datos bajo CC BY 4.0; código bajo MIT. Los datos del caso son ficticios.</p>
+
+sphinx:
+  config:
+    language: es

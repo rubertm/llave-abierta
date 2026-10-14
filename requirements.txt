@@ -1,0 +1,4 @@
+jupyter-book==1.0.4.post1
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8

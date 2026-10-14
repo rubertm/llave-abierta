@@ -1,0 +1,26 @@
+format: jb-book
+root: intro
+parts:
+  - caption: "Parte I. Conocer el sistema"
+    chapters:
+      - file: 00_presentacion
+      - file: 01_caso_palmas
+  - caption: "Parte II. Diagnóstico"
+    chapters:
+      - file: 02_balance_hidrico
+      - file: 03_donde_buscar_fugas
+  - caption: "Parte III. Operación"
+    chapters:
+      - file: 04_presiones_turnos
+      - file: 05_energia
+      - file: 06_modelo_hidraulico
+  - caption: "Parte IV. Gestión"
+    chapters:
+      - file: 07_medir_con_poco
+      - file: 08_diagnostico_a_proyecto
+  - caption: "Anexos"
+    chapters:
+      - file: anexos/a_cfd_parshall
+      - file: anexos/b_glosario
+      - file: anexos/c_normativa
+      - file: anexos/d_reproducir_datos
